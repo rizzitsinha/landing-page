@@ -113,15 +113,22 @@ img {
 
 .cards {
     display: flex;
-    justify-content: space-evenly;
+    justify-content: center;
+    gap: 100px;
 }
 
 .card {
-    width: 200pxs;
+    width: 200px;
 }
 
 .card img {
-    height: 200px;
-
+    height: auto;
+    width: 200px;
 }
 
+.card p {
+    margin: 0%;
+    padding: 0%;
+
+    margin: 10px 0 100px 0;
+}
