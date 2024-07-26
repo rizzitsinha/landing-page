@@ -97,3 +97,31 @@ img {
     margin: 16px 0;
     border-radius: 5px;
 }
+
+/* Cards styling */
+
+.part-3 {
+    text-align: center;
+}
+
+.part-3 h1 {
+    font-size: 36px;
+    color: #1F2937;
+    font-weight: bold;
+    margin: 100px;
+}
+
+.cards {
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.card {
+    width: 200pxs;
+}
+
+.card img {
+    height: 200px;
+
+}
+
