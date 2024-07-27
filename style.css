@@ -230,3 +230,19 @@ img {
 button:hover {
     background-color: #2d74e5;
 }
+
+/* style footer */
+
+.part-6 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #1F2937;
+    padding: 20px;
+}
+
+.part-6 .footer {
+    color: #F9FAF8;
+    font-size: 16px;
+    font-weight: 50;
+}
